@@ -7,3 +7,6 @@ requests
 python-dotenv
 streamlit-option-menu
 streamlit-autorefresh
+streamlit-lottie
+folium
+streamlit-folium
